@@ -1,0 +1,7 @@
+.idea
+*.tmp
+*.db
+*.epub
+*.pdf
+*.iml
+*~
