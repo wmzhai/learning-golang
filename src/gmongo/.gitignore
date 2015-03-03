@@ -1,0 +1,9 @@
+.idea
+*.tmp
+*.db
+routers/commentsRouter_gmongo_controllers.go
+gmongo
+*.iml
+*~
+tests/routers/
+
