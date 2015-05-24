@@ -1,6 +1,7 @@
 # Golang教程
 
-面向组织内部开发使用的golang培训教程
+
+根据[astaxie](https://github.com/astaxie)的[Build Web Application With Golang](https://github.com/astaxie/build-web-application-with-golang)修改
 
 
 * 1.[Go环境配置](01.0.md)
